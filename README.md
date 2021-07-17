@@ -1,5 +1,5 @@
 # Economic-Impact-Analysis-of-Earthquakes-on-Live-Maps
-![Image of sample map](EQcityMap.jpg)
+![Image of sample map](img/EQcityMap.jpg)
 
 Helps analyze the economic impact of earthquakes by allowing one to visualize the amount of earthquakes and state of economy of a given place at the same time.
 The countries are shaded according to the stock market data from the World Bank Site. The data is represented on the map as a gradient from red to blue. 
@@ -10,6 +10,7 @@ Dataset: https://datacatalog.worldbank.org/dataset/global-economic-monitor
 
 **Please share your comments here**
 https://www.coursera.org/learn/object-oriented-java/peer/XEvqA/programming-assignment-extension-peer-review/review/8NPH7XAiEeiPjArpa2oHpg
+![Image of feedback](img/Feedback.jpg)
 
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================

@@ -1,4 +1,4 @@
-# Economic-Impact-Analysis-of-Earthquakes-on-Live-Maps
+#Economic-Impact-Analysis-of-Earthquakes-on-Live-Maps
 Helps analyze the economic impact of earthquakes. Represents it on the map as a gradient from red to blue. Used UnfoldingMaps and Processing library. Built as a part of Object Oriented Programming in Java course offered by UC San Diego through Coursera.
 
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
